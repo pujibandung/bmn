@@ -22,7 +22,7 @@ use App\Http\Controllers\WebController;
 */
 
 Route::get('/', function () {
-    return view('welcome');
+    return view('coba');
 });
 
 // 1. CRUD TABEL RUANGAN
